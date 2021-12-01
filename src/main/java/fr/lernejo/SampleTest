@@ -17,7 +17,7 @@ class SampleTest {
             .isEqualTo(20);
     }
 
-    @Test
+
     void mult_test(){
         Sample s = new Sample();
         Sample.Operation operation = Sample.Operation.MULT;

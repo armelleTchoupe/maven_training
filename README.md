@@ -1,11 +1,2 @@
 # maven_training
-root = true
-
-[*]
-end_of_line = lf
-insert_final_newline = true
-
-charset = utf-8
-
-indent_style = space
-indent_size = 4
+![example branch parameter](https://github.com/armelleTchoupe/maven_training/actions/workflows/main.yml/badge.svg?branch=feature-1)>
