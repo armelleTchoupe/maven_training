@@ -1,3 +1,3 @@
 # maven_training
 ![example workflow](https://github.com/armelleTchoupe/maven_training/actions/workflows/build.yml/badge.svg)
-![test](https://codecov.io/gh/<your-name>/<your-project>/settings/badge)
+[![codecov](https://codecov.io/gh/armelleTchoupe/maven_training/branch/main/graph/badge.svg?token=DF2B40X890)](https://codecov.io/gh/armelleTchoupe/maven_training)
